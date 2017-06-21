@@ -1,5 +1,5 @@
 
-** Vehicle Detection Project **
+## Vehicle Detection Project
 
 The goals / steps of this project are the following:
 
@@ -13,14 +13,14 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 [image1]: ./img1.png
 [image2]: ./img2.png
-[image3]: ./img3.jpg
+[image3]: ./img3.png
 
 [video1]: ./test_output.mp4
 [video2]: ./project_output.mp4
 
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
-### Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
+Here I will consider the rubric points individually and describe how I addressed each point in my implementation.  
 
 ---
 ### Writeup / README
